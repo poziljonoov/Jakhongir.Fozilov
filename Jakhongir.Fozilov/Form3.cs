@@ -19,7 +19,7 @@ namespace Jakhongir.Fozilov
 
         private void button1_Click(object sender, EventArgs e)
         {
-         "Jakhongir" ;
+            label1.text = "Jakhongir";
 
         }
     }
